@@ -11,8 +11,8 @@ class Config:
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = "Melisaakinyi95@gmail.com"
-    MAIL_PASSWORD = "LegibraSQ4"
+    MAIL_USERNAME = "jameskirwa34@gmail.com"
+    MAIL_PASSWORD = "Uppercase2000"
 
     pass
 
