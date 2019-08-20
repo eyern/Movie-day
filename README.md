@@ -54,7 +54,7 @@ To run the tests for the class files:
 For any questions, troubleshooting or contributions,  find me on:
 Email: jameskirwa34@gmail.com, earnfuture@gmail.com
 
-### License
+## License
 
 MIT License
 Copyright (c) {2019}
