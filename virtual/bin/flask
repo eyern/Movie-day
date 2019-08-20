@@ -1,4 +1,4 @@
-#!/home/oscar/Documents/moringa-school-projects/MyTime/virtual/bin/python
+#!/home/james/Documents/Movie-day/virtual/bin/python3.6
 # -*- coding: utf-8 -*-
 import re
 import sys
